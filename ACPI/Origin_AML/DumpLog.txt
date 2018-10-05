@@ -1,0 +1,177 @@
+14:015  0:206  Found BIOS RSDP at F0140
+14:015  0:000  Printing ACPI tables from RSDP F0140 ...
+14:015  0:000   F0140: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+14:015  0:000    (Xsdt: 5B5AF188, Rsdt: 5B5AF0C4)
+14:015  0:000    5B5AF188: 'XSDT', 'TP-N25', Rev: 1, Len: 260
+14:015  0:000    5B5AF0C4: 'RSDT', 'TP-N25', Rev: 1, Len: 148
+14:015  0:000    Tables in Xsdt: 28
+14:015  0:000    0. 5B5EA000: 'FACP', 'TP-N25', Rev: 5, Len: 244
+14:015  0:000        (Dsdt: 5B5BF000, Facs: 5B546000, XDsdt: 5B5BF000, XFacs: 0)
+14:015  0:000        5B5BF000: 'DSDT', 'SKL', Rev: 2, Len: 158082
+14:020  0:004        5B546000: 'FACS', Ver: 2, Len: 64
+14:020  0:000    1. 5B5F0000: 'SSDT', 'DptfTabl', Rev: 2, Len: 49332
+14:020  0:000    2. 5B55C000: 'UEFI', 'TP-N25', Rev: 1, Len: 66
+14:020  0:000    3. 5B5EC000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12451
+14:020  0:000    4. 5B5EB000: 'SSDT', 'PerfTune', Rev: 2, Len: 1478
+14:020  0:000    5. 5B5E9000: 'HPET', 'TP-N25', Rev: 1, Len: 56
+14:020  0:000    6. 5B5E8000: 'APIC', 'TP-N25', Rev: 3, Len: 300
+14:020  0:000    7. 5B5E7000: 'MCFG', 'TP-N25', Rev: 1, Len: 60
+14:020  0:000    8. 5B5E6000: 'ECDT', 'TP-N25', Rev: 1, Len: 83
+14:020  0:000    9. 5B5BD000: 'SSDT', 'RVP7Rtd3', Rev: 2, Len: 7179
+14:020  0:000    10. 5B5BB000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 6034
+14:020  0:000    11. 5B5BA000: 'BOOT', 'TP-N25', Rev: 1, Len: 40
+14:020  0:000    12. 5B5B9000: 'BATB', 'TP-N25', Rev: 2, Len: 74
+14:020  0:000    13. 5B5B7000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+14:020  0:000    14. 5B5B6000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+14:020  0:000    15. 5B5B5000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1657
+14:020  0:000    16. 5B5B4000: 'LPIT', 'TP-N25', Rev: 1, Len: 148
+14:020  0:000    17. 5B5B3000: 'WSMT', 'TP-N25', Rev: 1, Len: 40
+14:020  0:000    18. 5B5B2000: 'SSDT', 'HdaDsp', Rev: 2, Len: 388
+14:020  0:000    19. 5B5B1000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1348
+14:020  0:000    20. 5B5B0000: 'SSDT', 'Wwan', Rev: 2, Len: 721
+14:020  0:000    21. 5B5FD000: 'DBGP', 'TP-N25', Rev: 1, Len: 52
+14:020  0:000    22. 5B5AE000: 'DBG2', 'TP-N25', Rev: 0, Len: 84
+14:020  0:000    23. 5B5AD000: 'MSDM', 'TP-N25', Rev: 3, Len: 85
+14:020  0:000    24. 5B5AC000: 'NHLT', 'TP-N25', Rev: 0, Len: 45
+14:020  0:000    25. 5B5AB000: 'ASF!', 'TP-N25', Rev: 32, Len: 160
+14:020  0:000    26. 5B5AA000: 'FPDT', 'TP-N25', Rev: 1, Len: 68
+14:020  0:000    27. 5B543000: 'UEFI', 'TP-N25', Rev: 1, Len: 318
+14:020  0:000    Tables in Rsdt: 28
+14:020  0:000    0. 5B5EA000: 'FACP', 'TP-N25', Rev: 5, Len: 244
+14:020  0:000        (Dsdt: 5B5BF000, Facs: 5B546000, XDsdt: 5B5BF000, XFacs: 0)
+14:020  0:000        5B5BF000: 'DSDT', 'SKL', Rev: 2, Len: 158082
+14:025  0:004        5B546000: 'FACS', Ver: 2, Len: 64
+14:025  0:000    1. 5B5F0000: 'SSDT', 'DptfTabl', Rev: 2, Len: 49332
+14:025  0:000    2. 5B55C000: 'UEFI', 'TP-N25', Rev: 1, Len: 66
+14:025  0:000    3. 5B5EC000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12451
+14:025  0:000    4. 5B5EB000: 'SSDT', 'PerfTune', Rev: 2, Len: 1478
+14:025  0:000    5. 5B5E9000: 'HPET', 'TP-N25', Rev: 1, Len: 56
+14:025  0:000    6. 5B5E8000: 'APIC', 'TP-N25', Rev: 3, Len: 300
+14:025  0:000    7. 5B5E7000: 'MCFG', 'TP-N25', Rev: 1, Len: 60
+14:025  0:000    8. 5B5E6000: 'ECDT', 'TP-N25', Rev: 1, Len: 83
+14:025  0:000    9. 5B5BD000: 'SSDT', 'RVP7Rtd3', Rev: 2, Len: 7179
+14:025  0:000    10. 5B5BB000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 6034
+14:025  0:000    11. 5B5BA000: 'BOOT', 'TP-N25', Rev: 1, Len: 40
+14:025  0:000    12. 5B5B9000: 'BATB', 'TP-N25', Rev: 2, Len: 74
+14:025  0:000    13. 5B5B7000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+14:025  0:000    14. 5B5B6000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+14:025  0:000    15. 5B5B5000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1657
+14:025  0:000    16. 5B5B4000: 'LPIT', 'TP-N25', Rev: 1, Len: 148
+14:025  0:000    17. 5B5B3000: 'WSMT', 'TP-N25', Rev: 1, Len: 40
+14:025  0:000    18. 5B5B2000: 'SSDT', 'HdaDsp', Rev: 2, Len: 388
+14:025  0:000    19. 5B5B1000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1348
+14:025  0:000    20. 5B5B0000: 'SSDT', 'Wwan', Rev: 2, Len: 721
+14:025  0:000    21. 5B5FD000: 'DBGP', 'TP-N25', Rev: 1, Len: 52
+14:025  0:000    22. 5B5AE000: 'DBG2', 'TP-N25', Rev: 0, Len: 84
+14:025  0:000    23. 5B5AD000: 'MSDM', 'TP-N25', Rev: 3, Len: 85
+14:025  0:000    24. 5B5AC000: 'NHLT', 'TP-N25', Rev: 0, Len: 45
+14:025  0:000    25. 5B5AB000: 'ASF!', 'TP-N25', Rev: 32, Len: 160
+14:025  0:000    26. 5B5AA000: 'FPDT', 'TP-N25', Rev: 1, Len: 68
+14:025  0:000    27. 5B543000: 'UEFI', 'TP-N25', Rev: 1, Len: 318
+14:025  0:000  Found UEFI Acpi 2.0 RSDP at 5B5FE014
+14:025  0:000  Saving ACPI tables from RSDP 5B5FE014 to EFI\CLOVER\ACPI\origin ...
+14:025  0:000   5B5FE014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+14:025  0:000    (Xsdt: 5B5AF188, Rsdt: 5B5AF0C4)
+14:025  0:000    5B5AF188: 'XSDT', 'TP-N25', Rev: 1, Len: 260
+14:025  0:000    5B5AF0C4: 'RSDT', 'TP-N25', Rev: 1, Len: 148
+14:025  0:000    Tables in Xsdt: 28
+14:025  0:000    0. 5B5EA000: 'FACP', 'TP-N25', Rev: 5, Len: 244
+14:025  0:000        (Dsdt: 5B5BF000, Facs: 5B546000, XDsdt: 5B5BF000, XFacs: 0)
+14:025  0:000        5B5BF000: 'DSDT', 'SKL', Rev: 2, Len: 158082
+14:029  0:004        5B546000: 'FACS', Ver: 2, Len: 64
+14:029  0:000    1. 5B5F0000: 'SSDT', 'DptfTabl', Rev: 2, Len: 49332
+14:029  0:000    2. 5B55C000: 'UEFI', 'TP-N25', Rev: 1, Len: 66
+14:029  0:000    3. 5B5EC000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12451
+14:029  0:000    4. 5B5EB000: 'SSDT', 'PerfTune', Rev: 2, Len: 1478
+14:029  0:000    5. 5B5E9000: 'HPET', 'TP-N25', Rev: 1, Len: 56
+14:029  0:000    6. 5B5E8000: 'APIC', 'TP-N25', Rev: 3, Len: 300
+14:029  0:000    7. 5B5E7000: 'MCFG', 'TP-N25', Rev: 1, Len: 60
+14:029  0:000    8. 5B5E6000: 'ECDT', 'TP-N25', Rev: 1, Len: 83
+14:029  0:000    9. 5B5BD000: 'SSDT', 'RVP7Rtd3', Rev: 2, Len: 7179
+14:029  0:000    10. 5B5BB000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 6034
+14:029  0:000    11. 5B5BA000: 'BOOT', 'TP-N25', Rev: 1, Len: 40
+14:029  0:000    12. 5B5B9000: 'BATB', 'TP-N25', Rev: 2, Len: 74
+14:029  0:000    13. 5B5B7000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+14:029  0:000    14. 5B5B6000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+14:029  0:000    15. 5B5B5000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1657
+14:029  0:000    16. 5B5B4000: 'LPIT', 'TP-N25', Rev: 1, Len: 148
+14:029  0:000    17. 5B5B3000: 'WSMT', 'TP-N25', Rev: 1, Len: 40
+14:029  0:000    18. 5B5B2000: 'SSDT', 'HdaDsp', Rev: 2, Len: 388
+14:029  0:000    19. 5B5B1000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1348
+14:029  0:000    20. 5B5B0000: 'SSDT', 'Wwan', Rev: 2, Len: 721
+14:029  0:000    21. 5B5FD000: 'DBGP', 'TP-N25', Rev: 1, Len: 52
+14:029  0:000    22. 5B5AE000: 'DBG2', 'TP-N25', Rev: 0, Len: 84
+14:029  0:000    23. 5B5AD000: 'MSDM', 'TP-N25', Rev: 3, Len: 85
+14:029  0:000    24. 5B5AC000: 'NHLT', 'TP-N25', Rev: 0, Len: 45
+14:029  0:000    25. 5B5AB000: 'ASF!', 'TP-N25', Rev: 32, Len: 160
+14:029  0:000    26. 5B5AA000: 'FPDT', 'TP-N25', Rev: 1, Len: 68
+14:029  0:000    27. 5B543000: 'UEFI', 'TP-N25', Rev: 1, Len: 318
+14:029  0:000    Tables in Rsdt: 28
+14:029  0:000    0. 5B5EA000: 'FACP', 'TP-N25', Rev: 5, Len: 244
+14:029  0:000        (Dsdt: 5B5BF000, Facs: 5B546000, XDsdt: 5B5BF000, XFacs: 0)
+14:029  0:000        5B5BF000: 'DSDT', 'SKL', Rev: 2, Len: 158082
+14:034  0:004        5B546000: 'FACS', Ver: 2, Len: 64
+14:034  0:000    1. 5B5F0000: 'SSDT', 'DptfTabl', Rev: 2, Len: 49332
+14:034  0:000    2. 5B55C000: 'UEFI', 'TP-N25', Rev: 1, Len: 66
+14:034  0:000    3. 5B5EC000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12451
+14:034  0:000    4. 5B5EB000: 'SSDT', 'PerfTune', Rev: 2, Len: 1478
+14:034  0:000    5. 5B5E9000: 'HPET', 'TP-N25', Rev: 1, Len: 56
+14:034  0:000    6. 5B5E8000: 'APIC', 'TP-N25', Rev: 3, Len: 300
+14:034  0:000    7. 5B5E7000: 'MCFG', 'TP-N25', Rev: 1, Len: 60
+14:034  0:000    8. 5B5E6000: 'ECDT', 'TP-N25', Rev: 1, Len: 83
+14:034  0:000    9. 5B5BD000: 'SSDT', 'RVP7Rtd3', Rev: 2, Len: 7179
+14:034  0:000    10. 5B5BB000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 6034
+14:034  0:000    11. 5B5BA000: 'BOOT', 'TP-N25', Rev: 1, Len: 40
+14:034  0:000    12. 5B5B9000: 'BATB', 'TP-N25', Rev: 2, Len: 74
+14:034  0:000    13. 5B5B7000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+14:034  0:000    14. 5B5B6000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+14:034  0:000    15. 5B5B5000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1657
+14:034  0:000    16. 5B5B4000: 'LPIT', 'TP-N25', Rev: 1, Len: 148
+14:034  0:000    17. 5B5B3000: 'WSMT', 'TP-N25', Rev: 1, Len: 40
+14:034  0:000    18. 5B5B2000: 'SSDT', 'HdaDsp', Rev: 2, Len: 388
+14:034  0:000    19. 5B5B1000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1348
+14:034  0:000    20. 5B5B0000: 'SSDT', 'Wwan', Rev: 2, Len: 721
+14:034  0:000    21. 5B5FD000: 'DBGP', 'TP-N25', Rev: 1, Len: 52
+14:034  0:000    22. 5B5AE000: 'DBG2', 'TP-N25', Rev: 0, Len: 84
+14:034  0:000    23. 5B5AD000: 'MSDM', 'TP-N25', Rev: 3, Len: 85
+14:034  0:000    24. 5B5AC000: 'NHLT', 'TP-N25', Rev: 0, Len: 45
+14:034  0:000    25. 5B5AB000: 'ASF!', 'TP-N25', Rev: 32, Len: 160
+14:034  0:000    26. 5B5AA000: 'FPDT', 'TP-N25', Rev: 1, Len: 68
+14:034  0:000    27. 5B543000: 'UEFI', 'TP-N25', Rev: 1, Len: 318
+14:034  0:000  Found UEFI Acpi 1.0 RSDP at 5B5FE000
+14:034  0:000  Printing ACPI tables from RSDP 5B5FE000 ...
+14:034  0:000   5B5FE000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+14:034  0:000    (Rsdt: 5B5AF000)
+14:034  0:000    5B5AF000: 'RSDT', 'TP-N25', Rev: 1, Len: 148
+14:034  0:000    Tables in Rsdt: 28
+14:034  0:000    0. 5B5EA000: 'FACP', 'TP-N25', Rev: 5, Len: 244
+14:034  0:000        (Dsdt: 5B5BF000, Facs: 5B546000, XDsdt: 5B5BF000, XFacs: 0)
+14:034  0:000        5B5BF000: 'DSDT', 'SKL', Rev: 2, Len: 158082
+14:039  0:004        5B546000: 'FACS', Ver: 2, Len: 64
+14:039  0:000    1. 5B5F0000: 'SSDT', 'DptfTabl', Rev: 2, Len: 49332
+14:039  0:000    2. 5B55C000: 'UEFI', 'TP-N25', Rev: 1, Len: 66
+14:039  0:000    3. 5B5EC000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12451
+14:039  0:000    4. 5B5EB000: 'SSDT', 'PerfTune', Rev: 2, Len: 1478
+14:039  0:000    5. 5B5E9000: 'HPET', 'TP-N25', Rev: 1, Len: 56
+14:039  0:000    6. 5B5E8000: 'APIC', 'TP-N25', Rev: 3, Len: 300
+14:039  0:000    7. 5B5E7000: 'MCFG', 'TP-N25', Rev: 1, Len: 60
+14:039  0:000    8. 5B5E6000: 'ECDT', 'TP-N25', Rev: 1, Len: 83
+14:039  0:000    9. 5B5BD000: 'SSDT', 'RVP7Rtd3', Rev: 2, Len: 7179
+14:039  0:000    10. 5B5BB000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 6034
+14:039  0:000    11. 5B5BA000: 'BOOT', 'TP-N25', Rev: 1, Len: 40
+14:039  0:000    12. 5B5B9000: 'BATB', 'TP-N25', Rev: 2, Len: 74
+14:039  0:000    13. 5B5B7000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+14:039  0:000    14. 5B5B6000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+14:039  0:000    15. 5B5B5000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1657
+14:039  0:000    16. 5B5B4000: 'LPIT', 'TP-N25', Rev: 1, Len: 148
+14:039  0:000    17. 5B5B3000: 'WSMT', 'TP-N25', Rev: 1, Len: 40
+14:039  0:000    18. 5B5B2000: 'SSDT', 'HdaDsp', Rev: 2, Len: 388
+14:039  0:000    19. 5B5B1000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1348
+14:039  0:000    20. 5B5B0000: 'SSDT', 'Wwan', Rev: 2, Len: 721
+14:039  0:000    21. 5B5FD000: 'DBGP', 'TP-N25', Rev: 1, Len: 52
+14:039  0:000    22. 5B5AE000: 'DBG2', 'TP-N25', Rev: 0, Len: 84
+14:039  0:000    23. 5B5AD000: 'MSDM', 'TP-N25', Rev: 3, Len: 85
+14:039  0:000    24. 5B5AC000: 'NHLT', 'TP-N25', Rev: 0, Len: 45
+14:039  0:000    25. 5B5AB000: 'ASF!', 'TP-N25', Rev: 32, Len: 160
+14:039  0:000    26. 5B5AA000: 'FPDT', 'TP-N25', Rev: 1, Len: 68
+14:039  0:000    27. 5B543000: 'UEFI', 'TP-N25', Rev: 1, Len: 318
