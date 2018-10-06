@@ -1,0 +1,47 @@
+Extracted contents:
+header:          00 ff ff ff ff ff ff 00
+serial number:   28 89 00 00 00 00 00 00 00 1b
+version:         01 04
+basic params:    a5 1f 11 78 03
+chroma info:     8d e0 a5 53 35 b8 26 0e 50 54
+established:     00 00 00
+standard:        01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01
+descriptor 1:    c0 5f 00 a0 a0 a0 3e 50 30 20 36 00 35 ae 10 00 00 1a
+descriptor 2:    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+descriptor 3:    00 00 00 fe 00 4a 44 49 20 20 20 20 20 20 20 20 20 20
+descriptor 4:    00 00 00 fe 00 4c 50 4d 31 34 30 4d 34 32 30 20 20 20
+extensions:      00
+checksum:        b7
+
+00FFFFFF FFFFFF00 28890000 00000000 001B0104 A51F1178 038DE0A5 5335B826 0E505400 00000101 01010101 01010101 01010101 0101C05F 00A0A0A0 3E503020 360035AE 1000001A 00000000 00000000 00000000 00000000 00000000 00FE004A 44492020 20202020 20202020 000000FE 004C504D 3134304D 34323020 202000B7
+
+Manufacturer: JDI Model 0 Serial Number 0
+Made week 0 of 2017
+EDID version: 1.4
+Digital display
+8 bits per primary color channel
+DisplayPort interface
+Maximum image size: 31 cm x 17 cm
+Gamma: 2.20
+Supported color formats: RGB 4:4:4
+First detailed timing is preferred timing
+Supports GTF timings within operating range
+Chroma Info:
+Red X: 0.646484 Y: 0.324219
+Green X: 0.209961 Y: 0.719727
+Blue X: 0.151367 Y: 0.056641
+White X: 0.312500 Y: 0.328125
+Established timings supported:
+Standard timings supported:
+Detailed mode: Clock 245.120 MHz, 309 mm x 174 mm
+               2560 2608 2640 2720 hborder 0
+               1440 1443 1449 1502 vborder 0
+               +hsync -vsync 
+Manufacturer-specified data, tag 0
+ASCII string: JDI
+ASCII string: LPM140M420
+Checksum: 0xb7 (valid)
+EDID block does NOT conform to EDID 1.3!
+	Missing name descriptor
+	Missing monitor ranges
+	Detailed block string not properly terminated
